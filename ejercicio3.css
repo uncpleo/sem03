@@ -1,0 +1,43 @@
+.con {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-1 {
+    background-color:rgb(59, 125, 190);
+}
+.cont-2 {
+    background-color:rgb(59, 190, 109);
+}
+.cont-3 {
+    background-color:rgb(226, 19, 19);
+}
+.cont-4 {
+    background-color:rgb(127, 202, 255);
+}
+.cont-5 {
+    background-color:rgb(143, 221, 164);
+}
+.cont-6 {
+    background-color:rgb(127, 131, 134);
+}
+.cont-7 {
+    background-color:rgb(206, 237, 53);
+}
+.cont-8 {
+    background-color:rgb(255, 0, 0);
+}
+.cont-9 {
+    background-color:rgb(59, 125, 190);
+}
+.cont-10 {
+    background-color:rgb(236, 157, 74);
+}
+.cont-11 {
+    background-color:rgb(219, 171, 198);
+}
+.cont-12 {
+    background-color:rgb(89, 166, 85);
+}

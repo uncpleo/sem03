@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.col {
+    box-sizing: border-box;
+    width: calc(100% / 3);
+    text-align: center;
+}
+
+@media (min-width: 576px) {
+    .col {
+        width: calc(100% / 3);
+    }
+}
+
+@media (min-width: 768px) {
+    .col {
+        width: calc(100% / 4);
+    }
+}
+
+@media (min-width: 992px) {
+    .col {
+        width: calc(100% / 6);
+    }
+}
+
+@media (min-width: 1200px) {
+    .col {
+        width: calc(100% / 12);
+    }
+}
